@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-client-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-de-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-en-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-fr-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-it-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-lb-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-ru-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-sv-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-te-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-lang-tr-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/marytts-runtime-5.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/voice-cmu-slt-hsmm-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eigene Entwicklungen/SimpleInteractiveBox/src/marytts-5.2/marytts-5.2/lib/voice-dfki-pavoque-neutral-hsmm-5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
